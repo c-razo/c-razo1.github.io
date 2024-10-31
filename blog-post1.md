@@ -1,10 +1,9 @@
 # Cybersecurity Checklist for Small Businesses
 
-## In this post, I’ll go over a checklist designed to help small business owners maintain a strong security posture by focusing on
-some essential cybersecurity practices, including but not limited to the importance of strong passwords, multi-factor authentication, and staying updated on vulnerabilities.
+## In this post, I’ll go over a checklist designed to help small business owners maintain a strong security posture by focusing on some essential cybersecurity practices, including but not limited to the importance of strong passwords, multi-factor authentication, and staying updated on vulnerabilities.
 
 
-Network Security:
+## Network Security:
 
 Firewall: A firewall is installed and configured to filter traffic.
 
@@ -17,7 +16,7 @@ Virtual Private Network (VPN): VPN is used for remote access and secure communic
 Network Segmentation: Critical systems and sensitive data are on separate networks.
 
 
-Endpoint Security:
+## Endpoint Security:
 
 Anti-Malware/Anti-Virus: All devices have updated anti-malware/anti-virus software.
 
@@ -30,7 +29,7 @@ Device Encryption: Sensitive data on devices (like laptops) is encrypted.
 Mobile Device Management (MDM): Policies are in place for securing mobile devices.
 
 
-Access Control:
+## Access Control:
 
 Password Policy: Strong password policies are enforced (e.g., length, complexity).
 
@@ -43,7 +42,7 @@ Least Privilege: Users have the minimum access necessary for their roles.
 User Account Management: Inactive accounts are disabled or deleted promptly.
 
 
-Data Protection:
+## Data Protection:
 
 Data Backup: Regular backups are taken and stored securely (off-site or in the cloud).
 
@@ -56,7 +55,7 @@ Data Loss Prevention (DLP): Tools or policies are in place to prevent data leaks
 Third-Party Data Sharing: Agreements and assessments ensure third-party security.
 
 
-Physical Security:
+## Physical Security:
 
 Physical Access Control: Access to server rooms or sensitive areas is restricted.
 
@@ -65,7 +64,7 @@ Security Cameras: Cameras monitor critical areas, with appropriate data protecti
 Secure Disposal: Hardware and sensitive documents are securely disposed of.
 
 
-Employee Training & Awareness:
+## Employee Training & Awareness:
 
 Security Awareness Training: Regular training on cybersecurity best practices.
 
@@ -76,7 +75,7 @@ Incident Reporting: Clear channels for reporting suspicious activity.
 Social Engineering Awareness: Training on identifying and avoiding social engineering attacks.
 
 
-Incident Response and Business Continuity:
+## Incident Response and Business Continuity:
 
 Incident Response Plan: A documented plan for responding to security incidents.
 
@@ -89,7 +88,7 @@ Disaster Recovery Plan: A plan for restoring critical systems after a disaster.
 Regular Drills and Testing: Incident response and business continuity plans are tested regularly.
 
 
-Compliance and Governance:
+## Compliance and Governance:
 
 Regulatory Compliance: Compliance with relevant laws and regulations (e.g., GDPR, HIPAA).
 
