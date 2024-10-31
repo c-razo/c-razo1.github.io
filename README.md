@@ -41,7 +41,7 @@ Here are some of the tools I’ve worked with in cybersecurity:
 
 ## Blog/Articles
 
-- [Cybersecurity Best Practices](blog-post1.md): Tips on creating strong passwords and using multi-factor authentication.
+- [Cybersecurity Checklist for Small Bussinesses](blog-post1.md): Tips on creating strong passwords and using multi-factor authentication.
 
 ## Case Studies
 
