@@ -55,9 +55,10 @@ Here are some of the tools I’ve worked with in cybersecurity:
 
 ## Certifications
 
-- **ISC2 Certified in Cybersecurity**
-- **CompTIA Security+**
-- **Coursera Cybersecurity Certificate**
+- ![CompTIA Security+](./comptia.jpg) CompTIA Security+
+- ![ISC2 Certified in Cybersecurity](./isc2.png) ISC2 Certified in Cybersecurity
+- ![Coursera Cybersecurity](./coursera.png) Coursera Cybersecurity Certificate
+
 
 ## Code Samples
 
