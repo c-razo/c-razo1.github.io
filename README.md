@@ -59,8 +59,6 @@ Here are some of the tools I’ve worked with in cybersecurity:
 - **CompTIA Security+**
 - **Coursera Cybersecurity Certificate**
 
-![ISC2 Certified](https://example.com/isc2_icon.png) ISC2 Certified in Cybersecurity
-
 ## Code Samples
 
 - [Python Scripts for Network Security](https://github.com/yourusername/repo-name): Python scripts for network monitoring and analysis.
