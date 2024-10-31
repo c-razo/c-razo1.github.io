@@ -1,6 +1,6 @@
 # Cybersecurity Checklist for Small Businesses
 
-##In this post, I’ll go over a checklist designed to help small business owners maintain a strong security posture by focusing on
+## In this post, I’ll go over a checklist designed to help small business owners maintain a strong security posture by focusing on
 some essential cybersecurity practices, including but not limited to the importance of strong passwords, multi-factor authentication, and staying updated on vulnerabilities.
 
 
