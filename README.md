@@ -53,13 +53,6 @@ Here are some of the tools I’ve worked with in cybersecurity:
 - **Scenario**: Practiced a simulated incident response for a malware infection.
 - **Outcome**: Learned the steps for identifying, containing, and eradicating threats.
 
-## Certifications
-
-- ![CompTIA Security+](./SecurityPlusLogoCertifiedCE.jpg) CompTIA Security+
-- ![ISC2 Certified in Cybersecurity](./certified-in-cybersecurity-cc(1).png) ISC2 Certified in Cybersecurity
-- ![Coursera Cybersecurity](./google-cybersecurity-certificate-2.png) Coursera Cybersecurity Certificate
-
-
 ## Code Samples
 
 - [Python Scripts for Network Security](https://github.com/yourusername/repo-name): Python scripts for network monitoring and analysis.
