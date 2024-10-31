@@ -38,3 +38,7 @@ Here are some of the tools I’ve worked with in cybersecurity:
 - **Kali Linux**: Penetration testing and security auditing.
 - **Burp Suite**: Web vulnerability scanning.
 - **Metasploit**: Exploitation and security testing.
+
+## Blog/Articles
+
+- [Cybersecurity Best Practices](blog-post1.md): Tips on creating strong passwords and using multi-factor authentication.
