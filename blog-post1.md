@@ -97,3 +97,5 @@ Security Policies and Procedures - Documented policies covering cybersecurity be
 Third-Party Audits - Periodic audits to assess security posture.
 
 Cyber Insurance - Coverage for cybersecurity incidents and data breaches.
+
+[Download Checklist](Cybersecurity-Checklist-for-Small-Businesses.pdf)
