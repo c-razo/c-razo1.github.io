@@ -42,3 +42,13 @@ Here are some of the tools I’ve worked with in cybersecurity:
 ## Blog/Articles
 
 - [Cybersecurity Best Practices](blog-post1.md): Tips on creating strong passwords and using multi-factor authentication.
+
+## Case Studies
+
+### Simulated Phishing Attack
+- **Scenario**: Simulated a phishing attack to understand common tactics and identify red flags.
+- **Outcome**: Gained insights into recognizing phishing emails and implementing best practices for avoiding them.
+
+### Incident Response Walkthrough
+- **Scenario**: Practiced a simulated incident response for a malware infection.
+- **Outcome**: Learned the steps for identifying, containing, and eradicating threats.
