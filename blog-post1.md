@@ -5,6 +5,7 @@ some essential cybersecurity practices, including but not limited to the importa
 
 
 1. Network Security
+
 [   ] Firewall: A firewall is installed and configured to filter traffic.
 
 [   ] Router Security: Default passwords and settings on routers are changed.
@@ -17,6 +18,7 @@ some essential cybersecurity practices, including but not limited to the importa
 
 
 2. Endpoint Security
+
 [   ] Anti-Malware/Anti-Virus: All devices have updated anti-malware/anti-virus software.
 
 [   ] Operating System Updates: Operating systems on all devices are up to date.
@@ -29,6 +31,7 @@ some essential cybersecurity practices, including but not limited to the importa
 
 
 3. Access Control
+
 [   ] Password Policy: Strong password policies are enforced (e.g., length, complexity).
 
 [   ] Multi-Factor Authentication (MFA): MFA is used for critical systems and services.
@@ -41,6 +44,7 @@ some essential cybersecurity practices, including but not limited to the importa
 
 
 4. Data Protection
+
 [   ] Data Backup: Regular backups are taken and stored securely (off-site or in the cloud).
 
 [   ] Sensitive Data Handling: Sensitive data is encrypted/protected during storage and transmission.
@@ -53,6 +57,7 @@ some essential cybersecurity practices, including but not limited to the importa
 
 
 5. Physical Security
+
 [   ] Physical Access Control: Access to server rooms or sensitive areas is restricted.
 
 [   ] Security Cameras: Cameras monitor critical areas, with appropriate data protection.
@@ -61,6 +66,7 @@ some essential cybersecurity practices, including but not limited to the importa
 
 
 6. Employee Training & Awareness
+
 [   ] Security Awareness Training: Regular training on cybersecurity best practices.
 
 [   ] Phishing Simulations: Phishing exercises to test employee awareness.
@@ -71,6 +77,7 @@ some essential cybersecurity practices, including but not limited to the importa
 
 
 7. Incident Response and Business Continuity
+
 [   ] Incident Response Plan: A documented plan for responding to security incidents.
 
 [   ] Designated Response Team: A team or individuals responsible for managing incidents.
@@ -83,6 +90,7 @@ some essential cybersecurity practices, including but not limited to the importa
 
 
 8. Compliance and Governance
+
 [   ] Regulatory Compliance: Compliance with relevant laws and regulations (e.g., GDPR, HIPAA).
 
 [   ] Security Policies and Procedures: Documented policies covering cybersecurity best practices.
