@@ -60,4 +60,4 @@ Here are some of the tools I’ve worked with in cybersecurity:
 
 ## Resume
 
-[Download My Resume](./CR-Resume.jpeg)
+[Download My Resume](./CR-Resume_ind.html)
