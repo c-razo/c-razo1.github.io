@@ -29,3 +29,12 @@ I am a cybersecurity professional certified in ISC2 Certified in Cybersecurity, 
 - **Description**: Discuss your experience with network analysis using Wireshark or similar tools.
 - **Tools Used**: Wireshark
 - **Outcome**: Briefly describe a scenario where you identified suspicious network activity.
+
+## Skills & Tools
+
+Here are some of the tools I’ve worked with in cybersecurity:
+
+- **Wireshark**: Network analysis and packet inspection.
+- **Kali Linux**: Penetration testing and security auditing.
+- **Burp Suite**: Web vulnerability scanning.
+- **Metasploit**: Exploitation and security testing.
