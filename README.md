@@ -66,3 +66,6 @@ Here are some of the tools I’ve worked with in cybersecurity:
 - [Python Scripts for Network Security](https://github.com/yourusername/repo-name): Python scripts for network monitoring and analysis.
 - [PowerShell Security Scripts](https://github.com/yourusername/repo-name): PowerShell scripts for Windows system security.
 
+## Resume
+
+[Download My Resume](resume.pdf)
