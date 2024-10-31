@@ -52,3 +52,9 @@ Here are some of the tools I’ve worked with in cybersecurity:
 ### Incident Response Walkthrough
 - **Scenario**: Practiced a simulated incident response for a malware infection.
 - **Outcome**: Learned the steps for identifying, containing, and eradicating threats.
+
+## Certifications
+
+- **ISC2 Certified in Cybersecurity**
+- **CompTIA Security+**
+- **Coursera Cybersecurity Certificate**
