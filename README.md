@@ -15,13 +15,13 @@ I am a cybersecurity professional certified in ISC2 Certified in Cybersecurity, 
 
 ## Projects
 
-### [Cybersecurity Checklist for Small Bussinesses](blog-post1.md)
+### Cybersecurity Checklist for Small Bussinesses
 
 - **Tips On**:
 - Strong Passwords
 - Multi-factor Authentication
 - Wi-Fi Protected Access 2 (WPA2)
-- More
+- [More](blog-post1.md)
 
 ### Vulnerability Scanning Project
 - **Description**: Briefly describe a project where you used tools like Nessus or OpenVAS to scan for vulnerabilities.
