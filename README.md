@@ -15,6 +15,8 @@ I am a cybersecurity professional certified in ISC2 Certified in Cybersecurity, 
 
 ## Projects
 
+### [Cybersecurity Checklist for Small Bussinesses](blog-post1.md): Tips on creating strong passwords and using multi-factor authentication, and more.
+
 ### Vulnerability Scanning Project
 - **Description**: Briefly describe a project where you used tools like Nessus or OpenVAS to scan for vulnerabilities.
 - **Tools Used**: Nessus, OpenVAS
@@ -40,8 +42,6 @@ Here are some of the tools I’ve worked with in cybersecurity:
 - **Metasploit**: Exploitation and security testing.
 
 ## Blog/Articles
-
-- [Cybersecurity Checklist for Small Bussinesses](blog-post1.md): Tips on creating strong passwords and using multi-factor authentication and more!
 
 ## Case Studies
 
