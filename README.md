@@ -7,7 +7,7 @@ I am a cybersecurity professional certified in ISC2 Certified in Cybersecurity, 
 ## Certifications
 - [**CompTIA Security+**](CompTIA-Security-Plus-Certificate.pdf)
 - [**ISC2 Certified in Cybersecurity**](ISC2-CC-Certification.pdf)
-- [**Coursera Cybersecurity Certificate**]()
+- [**Coursera Cybersecurity Certificate**](Google-Cybersecurity-Certificate.pdf)
 
 ## Contact
 - **Email**: christopher.razo@icloud.com
