@@ -16,6 +16,6 @@ This project addresses an SSL certificate trust issue identified by a Nessus sca
   - ![Apache SSL Configuration Part 2](Screenshot 2024-11-04 at 04.55.12.png) <!-- Replace with actual file name -->
   - ![Apache SSL Configuration Part 3](Screenshot 2024-11-04 at 04.55.28.png) <!-- Replace with actual file name -->
   - ![Apache SSL Configuration Part 4](Screenshot 2024-11-04 at 04.55.45.png) <!-- Replace with actual file name -->
-- **Test Result**: ![HTTPS Connection]()
+- **Test Result**: ![HTTPS Connection](Screenshot 2024-11-04 at 06.15.29.png)
 
 **Outcome**: This configuration provides HTTPS encryption, although the self-signed certificate will show a browser warning.
