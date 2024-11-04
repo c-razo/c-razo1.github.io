@@ -17,7 +17,7 @@ I am a cybersecurity professional certified in ISC2 Certified in Cybersecurity, 
 
 ### Cybersecurity Checklist for Small Bussinesses
 
-- **Tips On**:
+- **Areas of Focus**:
 - Strong Passwords
 - Multi-factor Authentication
 - Wi-Fi Protected Access 2 (WPA2)
