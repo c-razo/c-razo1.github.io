@@ -5,7 +5,7 @@
 I am a cybersecurity professional certified in ISC2 Certified in Cybersecurity, CompTIA Security+, and Coursera Cybersecurity.
 
 ## Certifications
-- **CompTIA Security+**(Screenshot 2024-11-04 at 07.07.19.png)
+- [**CompTIA Security+**](Screenshot 2024-11-04 at 07.07.19.png)
 - **ISC2 Certified in Cybersecurity**
 - **Coursera Cybersecurity Certificate**
 
