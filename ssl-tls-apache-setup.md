@@ -18,4 +18,4 @@ This project addresses an SSL certificate trust issue identified by a Nessus sca
   - ![Apache SSL Configuration Part 4](Screenshot 2024-11-04 at 04.55.45.png) <!-- Replace with actual file name -->
 - **Test Result**: ![HTTPS Connection](Screenshot 2024-11-04 at 06.15.29.png)
 
-**Outcome**: This configuration provides HTTPS encryption, although the self-signed certificate will show a browser warning.
+**Outcome**: This configuration provides HTTPS encryption, confirmed by successfully accessing the site with curl over HTTPS. Note: The self-signed certificate will show a browser warning.
