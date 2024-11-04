@@ -23,10 +23,21 @@ I am a cybersecurity professional certified in ISC2 Certified in Cybersecurity, 
 - Wi-Fi Protected Access 2 (WPA2)
 - [More](blog-post1.md)
 
-### Vulnerability Scanning Project
-- **Description**: Briefly describe a project where you used tools like Nessus or OpenVAS to scan for vulnerabilities.
-- **Tools Used**: Nessus, OpenVAS
-- **Outcome**: Explain any findings or insights.
+## SSL/TLS Configuration Project
+
+**Description**: This project was initiated after a Nessus scan identified an SSL certificate trust issue on a local Apache server. The scan result prompted a hands-on project to set up HTTPS using a self-signed SSL certificate on Apache.
+
+**Steps Taken**:
+- Used OpenSSL to generate a self-signed certificate and configure Apache for HTTPS.
+- Updated Apache settings to listen on port 443 and configured SSL.
+- Tested the setup by accessing `https://localhost` and documented the browser’s security warning.
+
+**Tools Used**: Nessus, OpenSSL, Apache
+
+**Outcome**: Successfully configured Apache to use HTTPS, demonstrating basic SSL/TLS setup and encryption, despite the self-signed certificate warning.
+
+[View Screenshots & More Details](ssl-tls-apache-setup.md)  <!-- Link to the Markdown file with full project details -->
+
 
 ### Password Cracking & Encryption
 - **Description**: Write about your experience or learning with password cracking and encryption tools.
