@@ -1,9 +1,3 @@
----
-layout: post
-title: "Password Cracking and Encryption Project"
-date: 2024-11-04
-categories: cybersecurity projects
----
 ## Project Overview
 
 In this project, I explored password cracking and encryption techniques using tools like John the Ripper and Hashcat. This involved creating and cracking a sample hashed password, understanding system resource limitations, and learning about effective password security.
