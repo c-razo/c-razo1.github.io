@@ -12,26 +12,27 @@ In this project, I explored password cracking and encryption techniques using to
 
 I set up my Kali Linux Debian VM on VMware Fusion, allocating 2 processor cores and 20 GB of storage. Below is a screenshot of the setup environment.
 
-![Environment Setup](path/to/your/environment-setup-screenshot.png)
+![Environment Setup](Eviroment-Setup)
 
 ### Step 2: Installing John the Ripper and Hashcat
 
 After setting up the environment, I installed John the Ripper and Hashcat. Here’s the command and installation confirmation:
 
-![Installation of Tools](path/to/your/installation-screenshot.png)
+![Installation of Tools](Install-John-and-Hashcat)
 
 ### Step 3: Creating a Sample Password Hash
 
 I generated a hashed password and stored it in a file named `hash.txt`. This hash was created with SHA-512, providing a strong encryption method.
 
-![Password Hash Creation](path/to/your/password-hash-screenshot.png)
+![Password Hash Creation](Create-Sample-Password-Hash)
 
 ### Step 4: Cracking the Password with John the Ripper
 
 I used John the Ripper to crack the password hash. Here is the successful result showing the cracked password:
 
-![John the Ripper Cracking Result](path/to/your/john-cracking-result.png)
+![John the Ripper Cracking Result](John-1-John-2-John-3)
 
 ### Project Outcome and Learnings
 
 This project demonstrated the importance of strong passwords and the effectiveness of various password-cracking tools. I also encountered resource limitations in my VM, which helped me understand the importance of hardware in security testing.
+! [Hashcat Limitations on Kali Linux VM via VMWare Fusion for MacOS](Hashcat-1-Hashcat2)
