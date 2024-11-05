@@ -30,7 +30,7 @@ I generated a hashed password and stored it in a file named `hash.txt`. This has
 
 I used John the Ripper to crack the password hash. Here is the successful result showing the cracked password:
 
-![John the Ripper Cracking Result](John-1.png-John-2.png-John-3.png)
+![John the Ripper Cracking Result](John-3.png)
 
 ### Project Outcome and Learnings
 
