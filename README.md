@@ -54,7 +54,7 @@ Tools Used: John the Ripper, Hashcat, OpenSSL, VMware Fusion
 
 **Outcome**: Successfully demonstrated the process of creating and cracking a hashed password, emphasizing the importance of strong password practices and the role of hardware capabilities in security testing.
 
-[View Screenshots & More Details]
+[View Screenshots & More Details](2024-11-04-password-cracking.md)
 
 ### Network Analysis
 - **Description**: Discuss your experience with network analysis using Wireshark or similar tools.
