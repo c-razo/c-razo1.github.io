@@ -39,10 +39,22 @@ I am a cybersecurity professional certified in ISC2 Certified in Cybersecurity, 
 [View Screenshots & More Details](ssl-tls-apache-setup.md)  <!-- Link to the Markdown file with full project details -->
 
 
-### Password Cracking & Encryption
-- **Description**: Write about your experience or learning with password cracking and encryption tools.
-- **Tools Used**: Hashcat, John the Ripper
-- **Outcome**: Summarize what you learned about securing passwords.
+## Password Cracking & Encryption Project
+
+**Description**: This project focused on understanding password security by exploring password-cracking techniques with John the Ripper and Hashcat. The goal was to create and crack a sample hashed password, simulating a real-world scenario where weak passwords can be exposed. During the process, limitations were encountered due to system resource constraints, offering insight into the hardware requirements for intensive cryptographic tasks.
+
+**Steps Taken**:
+
+Set up a Kali Linux Debian VM on VMware Fusion with 2 CPU cores and 20 GB storage.
+Installed John the Ripper and Hashcat to test password-cracking capabilities.
+Generated a SHA-512 hashed password using OpenSSL and saved it in a file.
+Used John the Ripper to crack the password, documenting the successful results.
+Attempted to use Hashcat for cracking, but adjusted settings after encountering memory limitations on the VM.
+Tools Used: John the Ripper, Hashcat, OpenSSL, VMware Fusion
+
+**Outcome**: Successfully demonstrated the process of creating and cracking a hashed password, emphasizing the importance of strong password practices and the role of hardware capabilities in security testing.
+
+[View Screenshots & More Details]
 
 ### Network Analysis
 - **Description**: Discuss your experience with network analysis using Wireshark or similar tools.
