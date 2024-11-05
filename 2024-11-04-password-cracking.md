@@ -12,7 +12,7 @@ In this project, I explored password cracking and encryption techniques using to
 
 I set up my Kali Linux Debian VM on VMware Fusion, allocating 2 processor cores and 20 GB of storage. Below is a screenshot of the setup environment.
 
-![Enviroment Setup](Enviroment-Setup.png)
+![Enviroment Setup](Eviroment-Setup.png)
 
 ### Step 2: Installing John the Ripper and Hashcat
 
