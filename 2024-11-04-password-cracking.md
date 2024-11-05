@@ -35,4 +35,5 @@ I used John the Ripper to crack the password hash. Here is the successful result
 ### Project Outcome and Learnings
 
 This project demonstrated the importance of strong passwords and the effectiveness of various password-cracking tools. I also encountered resource limitations in my VM, which helped me understand the importance of hardware in security testing.
-! [Hashcat Limitations on Kali Linux VM via VMWare Fusion for MacOS](Hashcat2.png)
+
+![Hashcat Limitations on Kali Linux VM via VMWare Fusion for MacOS](Hashcat2.png)
