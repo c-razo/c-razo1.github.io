@@ -57,7 +57,7 @@ I am a cybersecurity professional certified in ISC2 Certified in Cybersecurity, 
 
 [View Screenshots & More Details](2024-11-04-password-cracking.md)
 
-### Network Analysis
+### Network Analysis Project
 - **Description**: Discuss your experience with network analysis using Wireshark or similar tools.
 - **Tools Used**: Wireshark
 - **Outcome**: Briefly describe a scenario where you identified suspicious network activity.
