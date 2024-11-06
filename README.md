@@ -13,7 +13,7 @@ I am a cybersecurity professional certified in ISC2 Certified in Cybersecurity, 
 - **Phone**: 303-949-2974
 - **Email**: christopher.razo@icloud.com
 - **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/christopher-razo)
-- **Resume**: [Download PDF](CR-Resume.pdf)
+- **Resume**: [Download](CR-Resume.pdf)
 
 ## Projects and Labs:
 
