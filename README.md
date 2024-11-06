@@ -17,7 +17,7 @@ I am a cybersecurity professional certified in ISC2 Certified in Cybersecurity, 
 
 ## Projects and Labs:
 
-### 1. Cybersecurity Checklist for Small Bussinesses
+### 1. Cybersecurity Checklist Project
 
 **Description**:Strong Passwords, Multi-factor Authentication, Wi-Fi Protected Access 2 (WPA2), and everthing else a small business owner should focus on to maintain a strong, yet minimum security posture.
 
@@ -77,7 +77,7 @@ I am a cybersecurity professional certified in ISC2 Certified in Cybersecurity, 
 [Details](2024-11-05-sql-filtering-lab.md)
 
 
-### 5. Network Analysis Project
+### 5. Network Analysis Lab
 
 **Description**: This project involved using Wireshark to capture and analyze network traffic, focusing on identifying potential indicators of suspicious activity. The goal was to gain practical experience with network analysis by examining packet details, IP addresses, timing, and patterns in data transmission.
 
