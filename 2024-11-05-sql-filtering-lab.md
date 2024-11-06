@@ -15,7 +15,7 @@ Screenshot: Documented the successful creation of the database.
 
 **Step 3: Create the log_in_attempts Table**
 
-Explanation: I set up the log_in_attempts table to record login data, including timestamps, success status, and country of origin. This table helped simulate data related to login activities—common data for cybersecurity reviews.
+Explanation: I set up the log_in_attempts table to record login data, including timestamps, success status, and country of origin. This table helped simulate data related to login activities common data for cybersecurity reviews.
 Command Used: CREATE TABLE log_in_attempts (...)
 Screenshot: Captured the table creation process.
 
@@ -29,8 +29,7 @@ Screenshot: Documented the successful insertion of sample data.
 
 **Step 5: Run Query for Task 1 (After-Hours Failed Login Attempts)**
 
-Explanation: I used the AND operator to filter for login attempts that failed after business hours. This simulates a scenario where after-hours access could indicate suspicious activity.
-- SQL Query: SELECT * FROM log_in_attempts WHERE login_time > '18:00:00' AND success = 0;
+Explanation: I used the AND operator to filter for login attempts that failed after business hours. This simulates a scenario where after-hours access could indicate suspicious activity. SQL Query: SELECT * FROM log_in_attempts WHERE login_time > '18:00:00' AND success = 0;
 Screenshot: Captured the query and results.
 
 
@@ -44,7 +43,7 @@ Screenshot: Documented the query and its results.
 **Step 7: Run Query for Task 3 (Login Attempts Outside of Mexico)**
 
 Explanation: I used the NOT and LIKE operators to retrieve login attempts that didn’t originate from Mexico. This type of filter is valuable for narrowing down events by geographic location.
-SQL Query:SELECT * FROM log_in_attempts WHERE NOT country LIKE 'MEX%';
+SQL Query: SELECT * FROM log_in_attempts WHERE NOT country LIKE 'MEX%';
 Screenshot: Captured the query and results.
 
 
