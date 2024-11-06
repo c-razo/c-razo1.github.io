@@ -97,6 +97,8 @@ Capture Traffic Over Time: Monitor traffic at different times of day or during h
 Deep Packet Inspection: Investigate the content of other flagged packets more closely, as some patterns may not appear suspicious without examining multiple data points over time.
 Compare Against Known Good Baseline: Regularly analyze and document known good traffic to better identify anomalies, especially in a business or production environment.
 
+[Details](network-analysis-lab)
+
 
 ## Skills & Tools:
 
