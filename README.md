@@ -1,15 +1,15 @@
 # Chris Razo
 **Cybersecurity Professional**
 
-## About Me
+## About Me:
 I am a cybersecurity professional certified in ISC2 Certified in Cybersecurity, CompTIA Security+, and Coursera Cybersecurity.
 
-## Certifications
+## Certifications:
 - [**CompTIA Security+**](CompTIA-Security-Plus-Certificate.pdf)
 - [**ISC2 Certified in Cybersecurity**](ISC2-CC-Certification.pdf)
 - [**Coursera Cybersecurity Certificate**](Google-Cybersecurity-Certificate.pdf)
 
-## Contact
+## Contact:
 - **Phone**: 303-949-2974
 - **Email**: christopher.razo@icloud.com
 - **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/christopher-razo)
@@ -77,7 +77,7 @@ I am a cybersecurity professional certified in ISC2 Certified in Cybersecurity, 
 
 
 
-## Skills & Tools
+## Skills & Tools:
 
 Here are some of the tools I’ve worked with in cybersecurity:
 
@@ -86,9 +86,9 @@ Here are some of the tools I’ve worked with in cybersecurity:
 - **Burp Suite**: Web vulnerability scanning.
 - **Metasploit**: Exploitation and security testing.
 
-## Blog/Articles
+## Blog/Articles:
 
-## Case Studies
+## Case Studies:
 
 ### Simulated Phishing Attack
 - **Scenario**: Simulated a phishing attack to understand common tactics and identify red flags.
@@ -98,11 +98,11 @@ Here are some of the tools I’ve worked with in cybersecurity:
 - **Scenario**: Practiced a simulated incident response for a malware infection.
 - **Outcome**: Learned the steps for identifying, containing, and eradicating threats.
 
-## Code Samples
+## Code Samples:
 
 - [Python Scripts for Network Security](https://github.com/yourusername/repo-name): Python scripts for network monitoring and analysis.
 - [PowerShell Security Scripts](https://github.com/yourusername/repo-name): PowerShell scripts for Windows system security.
 
-## Resume
+## Resume:
 
 [Download My Resume](CR-Resume.pdf)
