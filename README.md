@@ -77,10 +77,25 @@ I am a cybersecurity professional certified in ISC2 Certified in Cybersecurity, 
 [Details](2024-11-05-sql-filtering-lab.md)
 
 
-### Network Analysis Project
-- **Description**: Discuss your experience with network analysis using Wireshark or similar tools.
-- **Tools Used**: Wireshark
-- **Outcome**: Briefly describe a scenario where you identified suspicious network activity.
+### 5. Network Analysis Project
+
+**Description**: This project involved using Wireshark to capture and analyze network traffic, focusing on identifying potential indicators of suspicious activity. The goal was to gain practical experience with network analysis by examining packet details, IP addresses, timing, and patterns in data transmission.
+
+**Steps Taken**:
+- Installed Wireshark and configured it to capture live network traffic on the MacBook Pro.
+- Filtered traffic to isolate packets with PSH, ACK flags, which can sometimes indicate data transfer or potential exfiltration.
+- Reviewed unfamiliar IP addresses using VirusTotal to check for any known malicious associations.
+- Analyzed timing patterns of repeated PSH, ACK packets to determine if there was evidence of automated or suspicious behavior.
+
+**Tools Used**: Wireshark, VirusTotal
+
+**Outcome**: Successfully identified and documented a methodology for filtering and analyzing network traffic for suspicious indicators. No malicious activity was detected during the analysis, but potential vulnerabilities were noted, including outdated TLSv1.1 traffic and connections to unfamiliar IP addresses, which could suggest further investigation in a production environment.
+
+**Additional Analysis Steps**:
+
+Capture Traffic Over Time: Monitor traffic at different times of day or during high-usage periods to see if any patterns change, especially with unfamiliar IPs.
+Deep Packet Inspection: Investigate the content of other flagged packets more closely, as some patterns may not appear suspicious without examining multiple data points over time.
+Compare Against Known Good Baseline: Regularly analyze and document known good traffic to better identify anomalies, especially in a business or production environment.
 
 
 ## Skills & Tools:
