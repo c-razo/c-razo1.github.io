@@ -58,7 +58,7 @@ I am a cybersecurity professional certified in ISC2 Certified in Cybersecurity, 
 
 
 
-### SQL Filtering Lab
+### [SQL Filtering Lab](2024-11-05-sql-filtering-lab.md)
 
 **Description**: In this lab, I practiced using SQL queries to retrieve specific data from a database. The lab focused on filtering data using `AND`, `OR`, and `NOT` operators.
 
