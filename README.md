@@ -15,6 +15,16 @@ I am a cybersecurity professional certified in ISC2 Certified in Cybersecurity, 
 - **Resume**: [View](/CR-Resume.pdf)
 
 
+## Skills & Tools:
+
+Here are some of the tools I’ve worked with in cybersecurity:
+
+- **Wireshark**: Network analysis and packet inspection.
+- **Kali Linux**: Penetration testing and security auditing.
+- **Burp Suite**: Web vulnerability scanning.
+- **Metasploit**: Exploitation and security testing.
+
+
 ## Projects and Labs:
 
 ### 1. Cybersecurity Checklist Project
@@ -99,15 +109,6 @@ Compare Against Known Good Baseline: Regularly analyze and document known good t
 
 [Details](network-analysis-lab.md)
 
-
-## Skills & Tools:
-
-Here are some of the tools I’ve worked with in cybersecurity:
-
-- **Wireshark**: Network analysis and packet inspection.
-- **Kali Linux**: Penetration testing and security auditing.
-- **Burp Suite**: Web vulnerability scanning.
-- **Metasploit**: Exploitation and security testing.
 
 ## Blog/Articles:
 
