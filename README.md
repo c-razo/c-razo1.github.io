@@ -12,7 +12,7 @@ I am a cybersecurity professional certified in ISC2 Certified in Cybersecurity, 
 ## Contact:
 - **Email**: christopher.razo@icloud.com
 - **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/christopher-razo)
-- **Resume**: [Download Copy](./CR-Resume.pdf){:download}
+- **Resume**: [View](/CR-Resume.pdf)
 
 
 ## Projects and Labs:
