@@ -5,6 +5,8 @@
 Explanation: I opened the MariaDB shell to interact with the database on my Kali Linux VM. Accessing the database shell is essential for executing SQL commands directly and managing data effectively.
 Command Used: sudo mysql -u root
 
+![Open the MariaDB Shell](1.png)
+
 
 **Step 2: Create the Organization Database**
 
