@@ -14,15 +14,14 @@ I am a cybersecurity professional certified in ISC2 Certified in Cybersecurity, 
 - **Email**: christopher.razo@icloud.com
 - **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/christopher-razo)
 
-## Projects
+## Projects and Labs:
 
-### Cybersecurity Checklist for Small Bussinesses
+### [Cybersecurity Checklist for Small Bussinesses](blog-post1.md)
 
 - **Areas of Focus**:
 - Strong Passwords
 - Multi-factor Authentication
 - Wi-Fi Protected Access 2 (WPA2)
-- [More](blog-post1.md)
 
 
 ## SSL/TLS Configuration Project
