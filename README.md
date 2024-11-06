@@ -36,7 +36,7 @@ Here are some of the tools I’ve worked with in cybersecurity:
 
 ### 1. Cybersecurity Checklist Project
 
-**Description**:Strong Passwords, Multi-factor Authentication, Wi-Fi Protected Access 2 (WPA2), and everthing else a small business owner should focus on to maintain a strong, yet minimum security posture.
+**Description**:Strong Passwords, Multi-factor Authentication, Wi-Fi Protected Access 2 (WPA2), and everything a small business should focus on. 
 
 **Steps Taken**:
 
@@ -103,6 +103,11 @@ Here are some of the tools I’ve worked with in cybersecurity:
 - Filtered traffic to isolate packets with PSH, ACK flags, which can sometimes indicate data transfer or potential exfiltration.
 - Reviewed unfamiliar IP addresses using VirusTotal to check for any known malicious associations.
 - Analyzed timing patterns of repeated PSH, ACK packets to determine if there was evidence of automated or suspicious behavior.
+- Opened MariaDB Shell in the Kali Linux VM and loaded a sample database for practice.
+- Created SQL queries using `AND`, `OR`, and `NOT` operators to filter data based on different conditions.
+- Reviewed the output of each query to verify the accuracy of the filtered results.
+- Captured screenshots of the queries and results for documentation purposes.
+
 
 **Tools Used**: Wireshark, VirusTotal
 
