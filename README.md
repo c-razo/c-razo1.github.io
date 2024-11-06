@@ -24,6 +24,7 @@ This summary provides a quick overview of my cybersecurity expertise and practic
 - **Email**: christopher.razo@icloud.com
 - **LinkedIn**: [Visit](https://linkedin.com/in/christopher-razo)
 - **Resume**: [View](/CR-Resume.pdf)
+- **Cover Letter**:()
 
 
 ## Skills & Tools:
