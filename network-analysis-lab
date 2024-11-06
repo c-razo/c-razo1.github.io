@@ -1,6 +1,15 @@
-Step 1. **Downloading Wireshark**: Screenshot showing the official Wireshark download page for macOS, highlighting the download button. This establishes the source and legitimacy of the software used in the project.
+## Steps and Explanations
 
-Step 2. **Installing Wireshark**: Screenshot of the Wireshark installer window with the drag-and-drop installation process, documenting how Wireshark was added to the Applications folder on the MacBook Pro.
+**Step 1: Open the MariaDB Shell**
+
+Explanation: I opened the MariaDB shell to interact with the database on my Kali Linux VM. Accessing the database shell is essential for executing SQL commands directly and managing data effectively.
+Command Used: sudo mysql -u root
+
+
+
+**Step 1. Downloading Wireshark**: Screenshot showing the official Wireshark download page for macOS, highlighting the download button. This establishes the source and legitimacy of the software used in the project.
+
+**Step 2. Installing Wireshark**: Screenshot of the Wireshark installer window with the drag-and-drop installation process, documenting how Wireshark was added to the Applications folder on the MacBook Pro.
 
 Step 3. **Opening Wireshark for the First Time**: Screenshot showing the initial Wireshark interface upon launching, capturing any security prompts encountered and confirming that the application is ready for use.
 
