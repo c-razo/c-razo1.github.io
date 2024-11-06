@@ -27,7 +27,7 @@ Here are some of the tools I’ve worked with in cybersecurity:
 - **Nessus**:
 - **John the Ripper**:
 - **ChatGPT**:
-- MariaDB Shell
+- **MariaDB Shell**:22
 
 
 ## Projects and Labs:
