@@ -64,7 +64,6 @@ I am a cybersecurity professional certified in ISC2 Certified in Cybersecurity, 
 **Description**: In this lab, I practiced using SQL queries to retrieve specific data from a database. The lab focused on filtering data using `AND`, `OR`, and `NOT` operators.
 
 **Steps Taken**:
-- 
 
 **Tools**: Kali Linux VM, MariaDB Shell, ChatGPT
 
