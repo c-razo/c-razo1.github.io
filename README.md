@@ -1,5 +1,5 @@
 # Chris Razo
-**Cybersecurity Professional**
+**Dedicated IT & Cybersecurity Professional**
 
 ## About Me:
 I am a cybersecurity professional certified in ISC2 Certified in Cybersecurity, CompTIA Security+, and Coursera Cybersecurity.
