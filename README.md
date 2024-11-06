@@ -2,7 +2,8 @@
 **Dedicated and Passionate IT & Cybersecurity Professional**
 
 ## About Me:
-I am a cybersecurity professional certified in ISC2 Certified in Cybersecurity, CompTIA Security+, and Coursera Cybersecurity.
+I wake up and work on these projects and develop skill more skill each day. Self-studied. Exucted here.
+
 
 ## Certifications:
 - **CompTIA Security+**: [View](CompTIA-Security-Plus-Certificate.pdf)
