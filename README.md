@@ -25,10 +25,10 @@ Here are some of the tools I’ve worked with in cybersecurity:
 - **Wireshark**: Network analysis and packet inspection.
 - **Burp Suite**: Web vulnerability scanning.
 - **Metasploit**: Exploitation and security testing.
-- **Nessus**:
-- **John the Ripper**:
-- **ChatGPT**:
-- **MariaDB Shell**:22
+- **Nessus**: Vulnerability assessment tool to identify security and more.
+- **John the Ripper**: Password-cracking tool to test password strength.
+- **MariaDB Shell**: Interactive command-line interface allowing users to execute SQL commands.
+- **ChatGPT**: AI learning technology.
 
 
 ## Projects and Labs:
