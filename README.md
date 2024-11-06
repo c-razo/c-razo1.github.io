@@ -17,7 +17,7 @@ I am a cybersecurity professional certified in ISC2 Certified in Cybersecurity, 
 
 ## Projects and Labs:
 
-### [Cybersecurity Checklist for Small Bussinesses](blog-post1.md)
+### Cybersecurity Checklist for Small Bussinesses
 
 **Description**:Strong Passwords, Multi-factor Authentication, Wi-Fi Protected Access 2 (WPA2), and everthing else a small business owner should focus on to maintain a strong, yet minimum security posture.
 
@@ -27,6 +27,7 @@ I am a cybersecurity professional certified in ISC2 Certified in Cybersecurity, 
 
 **Outcome**:
 
+[View Screenshots and Details](blog-post1.md)
 
 ### [SSL/TLS Configuration Project](ssl-tls-apache-setup.md)
 
