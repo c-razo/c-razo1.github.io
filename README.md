@@ -1,3 +1,5 @@
+![Profile Picture](/profile.jpg){: style="display: block; margin: 0 auto; border-radius: 50%; width: 150px;" }
+
 # Chris Razo
 **Dedicated and Passionate IT & Cybersecurity Professional**
 
