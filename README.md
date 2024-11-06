@@ -32,7 +32,7 @@ I am a cybersecurity professional certified in ISC2 Certified in Cybersecurity, 
 
 ### 2. SSL/TLS Configuration Project
 
-**Description**: This project was initiated after a Nessus scan identified an SSL certificate trust issue on a local Apache server. The scan result prompted a hands-on project to set up HTTPS using a self-signed SSL certificate on Apache.
+**Description**: - UPDATE TO INCLUDE DOWNLOADING NESSUS - This project was initiated after a Nessus scan identified an SSL certificate trust issue on a local Apache server. The scan result prompted a hands-on project to set up HTTPS using a self-signed SSL certificate on Apache.
 
 **Steps Taken**:
 - Used OpenSSL to generate a self-signed certificate and configure Apache for HTTPS.
