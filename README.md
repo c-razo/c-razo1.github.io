@@ -19,10 +19,15 @@ I am a cybersecurity professional certified in ISC2 Certified in Cybersecurity, 
 
 Here are some of the tools I’ve worked with in cybersecurity:
 
+- **MacBook Pro**: Apple M3Pro, 18 GB, MacOS Sequoia Version 15.0.1.
+- **VMware Fusion Virtual Machine**: Kali Linux Debian 12.x 64-bit Arm.
 - **Wireshark**: Network analysis and packet inspection.
-- **Kali Linux**: Penetration testing and security auditing.
 - **Burp Suite**: Web vulnerability scanning.
 - **Metasploit**: Exploitation and security testing.
+- **Nessus**:
+- **John the Ripper**:
+- **ChatGPT**:
+- MariaDB Shell
 
 
 ## Projects and Labs:
