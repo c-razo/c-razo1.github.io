@@ -18,10 +18,13 @@ I am a cybersecurity professional certified in ISC2 Certified in Cybersecurity, 
 
 ### [Cybersecurity Checklist for Small Bussinesses](blog-post1.md)
 
-- **Areas of Focus**:
-- Strong Passwords
-- Multi-factor Authentication
-- Wi-Fi Protected Access 2 (WPA2)
+**Description**:Strong Passwords, Multi-factor Authentication, Wi-Fi Protected Access 2 (WPA2), and everthing else a small business owner should focus on to maintain a strong, yet minimum security posture.
+
+**Steps Taken**:
+
+**Tools Used**:
+
+**Outcome**:
 
 
 ### [SSL/TLS Configuration Project](ssl-tls-apache-setup.md)
@@ -37,10 +40,8 @@ I am a cybersecurity professional certified in ISC2 Certified in Cybersecurity, 
 
 **Outcome**: Successfully configured Apache to use HTTPS, demonstrating basic SSL/TLS setup and encryption, despite the self-signed certificate warning.
 
-[View Screenshots & More Details]  <!-- Link to the Markdown file with full project details -->
 
-
-## Password Cracking & Encryption Project
+### [Password Cracking & Encryption Project](2024-11-04-password-cracking.md)
 
 **Description**: This project focused on understanding password security by exploring password-cracking techniques with John the Ripper and Hashcat. The goal was to create and crack a sample hashed password, simulating a real-world scenario where weak passwords can be exposed. During the process, limitations were encountered due to system resource constraints, offering insight into the hardware requirements for intensive cryptographic tasks.
 
@@ -55,27 +56,26 @@ I am a cybersecurity professional certified in ISC2 Certified in Cybersecurity, 
 
 **Outcome**: Successfully demonstrated the process of creating and cracking a hashed password, emphasizing the importance of strong password practices and the role of hardware capabilities in security testing.
 
-[View Screenshots & More Details](2024-11-04-password-cracking.md)
 
 
-## SQL Filtering Lab
+### SQL Filtering Lab
 
 **Description**: In this lab, I practiced using SQL queries to retrieve specific data from a database. The lab focused on filtering data using `AND`, `OR`, and `NOT` operators.
 
 **Steps Taken**:
 
-**Tools**: Kali Linux VM, MariaDB Shell, ChatGPT
+**Tools Used**: Kali Linux VM, MariaDB Shell, ChatGPT
 
-**Outcomes**: This SQL Filtering Lab demonstrates my ability to apply essential data creation and retrieval techniques, as well as adaptational learning combining virtual machines and AI tools, both crucial for cybersecurity analysis in the 2024 digital landscape and beyond.
-
-[View Screenshots & More Details]()
-
+**Outcome**: This SQL Filtering Lab demonstrates my ability to apply essential data creation and retrieval techniques, as well as adaptational learning combining virtual machines and AI tools, both crucial for cybersecurity analysis in the 2024 digital landscape and beyond.
 
 
 ### Network Analysis Project
 - **Description**: Discuss your experience with network analysis using Wireshark or similar tools.
 - **Tools Used**: Wireshark
 - **Outcome**: Briefly describe a scenario where you identified suspicious network activity.
+
+
+
 
 ## Skills & Tools
 
