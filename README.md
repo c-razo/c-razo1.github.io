@@ -57,6 +57,21 @@ I am a cybersecurity professional certified in ISC2 Certified in Cybersecurity, 
 
 [View Screenshots & More Details](2024-11-04-password-cracking.md)
 
+## Introduction
+In this lab, I practiced using SQL queries to retrieve specific data from a database. The lab focused on filtering data using `AND`, `OR`, and `NOT` operators.
+
+## Environment Setup
+- Created `organization` database
+- Created `log_in_attempts` and `employees` tables
+
+## Tasks
+### Task 1: Retrieve after-hours failed login attempts
+**SQL Query**:
+```sql
+SELECT * FROM log_in_attempts WHERE login_time > '18:00:00' AND success = 0;
+
+
+
 ### Network Analysis Project
 - **Description**: Discuss your experience with network analysis using Wireshark or similar tools.
 - **Tools Used**: Wireshark
