@@ -57,20 +57,17 @@ I am a cybersecurity professional certified in ISC2 Certified in Cybersecurity, 
 
 [View Screenshots & More Details](2024-11-04-password-cracking.md)
 
-## Introduction
+## SQL Filtering Lab
 In this lab, I practiced using SQL queries to retrieve specific data from a database. The lab focused on filtering data using `AND`, `OR`, and `NOT` operators.
 
-## Environment Setup
-- Created `organization` database
-- Created `log_in_attempts` and `employees` tables
-
-## Tasks
-### Task 1: Retrieve after-hours failed login attempts
-**SQL Query**:
-```sql
-SELECT * FROM log_in_attempts WHERE login_time > '18:00:00' AND success = 0;
+**Steps Taken**:
 
 
+**Tools**: Kali Linux VM, MariaDB Shell, ChatGPT
+
+**Outcomes**: This SQL Filtering Lab demonstrates my ability to apply essential data creation and retrieval techniques, as well as adaptational learning combining virtual machines and AI tools, both crucial for cybersecurity analysis in the 2024 digital landscape and beyond.
+
+[View Screenshots & More Details]()
 
 ### Network Analysis Project
 - **Description**: Discuss your experience with network analysis using Wireshark or similar tools.
