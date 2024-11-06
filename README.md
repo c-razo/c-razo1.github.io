@@ -133,15 +133,15 @@ Compare Against Known Good Baseline: Regularly analyze and document known good t
 [Details](network-analysis-lab.md)
 
 
-## Case Studies:
-
-### Simulated Phishing Attack
+### 6. Simulated Phishing Attack
 - **Scenario**: Simulated a phishing attack to understand common tactics and identify red flags.
 - **Outcome**: Gained insights into recognizing phishing emails and implementing best practices for avoiding them.
 
-### Incident Response Walkthrough
+
+### 7. Incident Response Walkthrough
 - **Scenario**: Practiced a simulated incident response for a malware infection.
 - **Outcome**: Learned the steps for identifying, containing, and eradicating threats.
+
 
 ## Code Samples:
 
