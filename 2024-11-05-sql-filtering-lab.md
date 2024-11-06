@@ -14,12 +14,16 @@ Explanation: I created the organization database as the primary container for st
 Command Used: CREATE DATABASE organization;
 Screenshot: Documented the successful creation of the database.
 
+![Create the Organization Database](2.png)
+
 
 **Step 3: Create the log_in_attempts Table**
 
 Explanation: I set up the log_in_attempts table to record login data, including timestamps, success status, and country of origin. This table helped simulate data related to login activities common data for cybersecurity reviews.
 Command Used: CREATE TABLE log_in_attempts (...)
 Screenshot: Captured the table creation process.
+
+![Create the log_in_attempts Table](3.png)
 
 
 **Step 4: Insert Sample Data into log_in_attempts**
@@ -28,11 +32,15 @@ Explanation: I populated the log_in_attempts table with sample data. This includ
 Command Used: INSERT INTO log_in_attempts (...) VALUES (...)
 Screenshot: Documented the successful insertion of sample data.
 
+![Insert Sample Data into log_in_attempts](4.png)
+
 
 **Step 5: Run Query for Task 1 (After-Hours Failed Login Attempts)**
 
 Explanation: I used the AND operator to filter for login attempts that failed after business hours. This simulates a scenario where after-hours access could indicate suspicious activity. SQL Query: SELECT * FROM log_in_attempts WHERE login_time > '18:00:00' AND success = 0;
 Screenshot: Captured the query and results.
+
+![Run Query for Task 1 (After-Hours Failed Login Attempts)](5.png)
 
 
 **Step 6: Run Query for Task 2 (Login Attempts on Specific Dates)**
@@ -41,12 +49,16 @@ Explanation: Using the OR operator, I filtered for login attempts on specified d
 SQL Query: SELECT * FROM log_in_attempts WHERE login_date = '2022-05-08' OR login_date = '2022-05-09';
 Screenshot: Documented the query and its results.
 
+![Run Query for Task 2 (Login Attempts on Specific Dates)](6.png)
+
 
 **Step 7: Run Query for Task 3 (Login Attempts Outside of Mexico)**
 
 Explanation: I used the NOT and LIKE operators to retrieve login attempts that didn’t originate from Mexico. This type of filter is valuable for narrowing down events by geographic location.
 SQL Query: SELECT * FROM log_in_attempts WHERE NOT country LIKE 'MEX%';
 Screenshot: Captured the query and results.
+
+![Run Query for Task 3 (Login Attempts Outside of Mexico)](7.png)
 
 
 **Step 8: Create the employees Table**
@@ -55,12 +67,16 @@ Explanation: I created an employees table to store employee information, includi
 Command Used: CREATE TABLE employees (...)
 Screenshot: Documented the table creation process.
 
+![Create the employees Table](8.png)
+
 
 **Step 9: Insert Sample Data into employees**
 
 Explanation: I populated the employees table with sample employee records across different departments and locations. Adding sample data provided a foundation for testing additional queries.
 Command Used: INSERT INTO employees (...) VALUES (...)
 Screenshot: Captured the data insertion process.
+
+![Insert Sample Data into employees](9.png)
 
 
 **Step 10: Run Query for Task 4 (Employees in Marketing, East Building)**
@@ -69,6 +85,8 @@ Explanation: I used the AND and LIKE operators to filter for employees in the Ma
 SQL Query: SELECT * FROM employees WHERE department = 'Marketing' AND office LIKE 'East%';
 Screenshot: Documented the query and results.
 
+![Run Query for Task 4 (Employees in Marketing, East Building)]()
+
 
 **Step 11: Run Query for Task 5 (Employees in Finance or Sales Departments)**
 
@@ -76,9 +94,12 @@ Explanation: I used the OR operator to retrieve employees in either the Finance 
 SQL Query: SELECT * FROM employees WHERE department = 'Finance' OR department = 'Sales';
 Screenshot: Captured the query and results.
 
+![Run Query for Task 5 (Employees in Finance or Sales Departments)]()
 
 **Step 12: Run Query for Task 6 (Employees Not in Information Technology)**
 
 Explanation: I used the != operator to exclude employees in the Information Technology department. This exclusion filter is useful for targeting only non-IT departments for specific analyses.
 SQL Query: SELECT * FROM employees WHERE department != 'Information Technology';
 Screenshot: Documented the query and results.
+
+![Run Query for Task 6 (Employees Not in Information Technology)]()
