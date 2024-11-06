@@ -2,7 +2,7 @@
 **Dedicated and Passionate IT & Cybersecurity Professional**
 
 ## About Me:
-I wake up and work on these projects/develop my skills. More skill each day. Self-studied. Shown here.
+I wake up, work on projects and develop my skills. More skill each day. Self-studied. Displayed here.
 
 
 ## Summary
