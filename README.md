@@ -17,7 +17,7 @@ I am a cybersecurity professional certified in ISC2 Certified in Cybersecurity, 
 
 ## Projects and Labs:
 
-### Cybersecurity Checklist for Small Bussinesses
+### 1. Cybersecurity Checklist for Small Bussinesses
 
 **Description**:Strong Passwords, Multi-factor Authentication, Wi-Fi Protected Access 2 (WPA2), and everthing else a small business owner should focus on to maintain a strong, yet minimum security posture.
 
@@ -27,9 +27,10 @@ I am a cybersecurity professional certified in ISC2 Certified in Cybersecurity, 
 
 **Outcome**:
 
-[View Screenshots and Details](blog-post1.md)
+[Details](blog-post1.md)
 
-### [SSL/TLS Configuration Project](ssl-tls-apache-setup.md)
+
+### 2. SSL/TLS Configuration Project
 
 **Description**: This project was initiated after a Nessus scan identified an SSL certificate trust issue on a local Apache server. The scan result prompted a hands-on project to set up HTTPS using a self-signed SSL certificate on Apache.
 
@@ -42,8 +43,10 @@ I am a cybersecurity professional certified in ISC2 Certified in Cybersecurity, 
 
 **Outcome**: Successfully configured Apache to use HTTPS, demonstrating basic SSL/TLS setup and encryption, despite the self-signed certificate warning.
 
+[Details](ssl-tls-apache-setup.md)
 
-### [Password Cracking & Encryption Project](2024-11-04-password-cracking.md)
+
+### 3. Password Cracking & Encryption Project
 
 **Description**: This project focused on understanding password security by exploring password-cracking techniques with John the Ripper and Hashcat. The goal was to create and crack a sample hashed password, simulating a real-world scenario where weak passwords can be exposed. During the process, limitations were encountered due to system resource constraints, offering insight into the hardware requirements for intensive cryptographic tasks.
 
@@ -58,9 +61,10 @@ I am a cybersecurity professional certified in ISC2 Certified in Cybersecurity, 
 
 **Outcome**: Successfully demonstrated the process of creating and cracking a hashed password, emphasizing the importance of strong password practices and the role of hardware capabilities in security testing.
 
+[Details](2024-11-04-password-cracking.md)
 
 
-### [SQL Filtering Lab](2024-11-05-sql-filtering-lab.md)
+### 4. SQL Filtering Lab
 
 **Description**: In this lab, I practiced using SQL queries to retrieve specific data from a database. The lab focused on filtering data using `AND`, `OR`, and `NOT` operators.
 
@@ -70,13 +74,13 @@ I am a cybersecurity professional certified in ISC2 Certified in Cybersecurity, 
 
 **Outcome**: This SQL Filtering Lab demonstrates my ability to apply essential data creation and retrieval techniques, as well as adaptational learning combining virtual machines and AI tools, both crucial for cybersecurity analysis in the 2024 digital landscape and beyond.
 
+[Details](2024-11-05-sql-filtering-lab.md)
+
 
 ### Network Analysis Project
 - **Description**: Discuss your experience with network analysis using Wireshark or similar tools.
 - **Tools Used**: Wireshark
 - **Outcome**: Briefly describe a scenario where you identified suspicious network activity.
-
-
 
 
 ## Skills & Tools:
