@@ -13,6 +13,7 @@ I am a cybersecurity professional certified in ISC2 Certified in Cybersecurity, 
 - **Phone**: 303-949-2974
 - **Email**: christopher.razo@icloud.com
 - **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/christopher-razo)
+- **Resume**: [Download My Resume](CR-Resume.pdf)
 
 ## Projects and Labs:
 
@@ -102,7 +103,3 @@ Here are some of the tools I’ve worked with in cybersecurity:
 
 - [Python Scripts for Network Security](https://github.com/yourusername/repo-name): Python scripts for network monitoring and analysis.
 - [PowerShell Security Scripts](https://github.com/yourusername/repo-name): PowerShell scripts for Windows system security.
-
-## Resume:
-
-[Download My Resume](CR-Resume.pdf)
