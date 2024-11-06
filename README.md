@@ -133,8 +133,6 @@ Compare Against Known Good Baseline: Regularly analyze and document known good t
 [Details](network-analysis-lab.md)
 
 
-## Blog/Articles:
-
 ## Case Studies:
 
 ### Simulated Phishing Attack
