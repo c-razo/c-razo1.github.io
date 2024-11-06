@@ -5,6 +5,14 @@
 I wake up and work on these projects/develop my skills. More skill each day. Self-studied. Shown here.
 
 
+## Summary
+- **Certifications**: CompTIA Security+, ISC2 Certified in Cybersecurity, Coursera Cybersecurity Certificate.
+- **Core Skills**: Network analysis, vulnerability assessment, SSL/TLS configuration, password cracking, SQL filtering.
+- **Top Projects**: SSL/TLS Configuration Project, Password Cracking & Encryption, Network Analysis Lab.
+
+This summary provides a quick overview of my cybersecurity expertise and practical experience across various tools and projects.
+
+
 ## Certifications:
 - **CompTIA Security+**: [View](CompTIA-Security-Plus-Certificate.pdf)
 - **ISC2 Certified in Cybersecurity**: [View](ISC2-CC-Certification.pdf)
