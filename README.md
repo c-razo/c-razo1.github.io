@@ -29,6 +29,7 @@ Here are some of the tools I’ve worked with in cybersecurity:
 - **John the Ripper**: Password-cracking tool to test password strength.
 - **MariaDB Shell**: Interactive command-line interface allowing users to execute SQL commands.
 - **ChatGPT**: AI learning technology.
+- **Azure**: Cloud computing platform. 
 
 
 ## Projects and Labs:
