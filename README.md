@@ -94,7 +94,8 @@ Here are some of the tools I’ve worked with in cybersecurity:
 
 ### 4. SQL Filtering Lab
 
-**Description**: In this lab, I practiced using SQL queries to retrieve specific data from a database. The lab focused on filtering data using `AND`, `OR`, and `NOT` operators.
+**Description**: In this lab, I practiced using SQL queries to retrieve specific data from a database. The lab focused on filtering data using `AND`, `OR`, and `NOT` operators. SQL filtering is a crucial technique in cybersecurity that prevents SQL injection attacks, one of the most common vulnerabilities in web applications. SQL injection occurs when malicious actors insert harmful SQL code into input fields to manipulate or access unauthorized data. Effective SQL filtering helps mitigate these risks by validating and sanitizing user inputs, ensuring that only safe queries reach the database.
+
 
 **Steps Taken**:
 
